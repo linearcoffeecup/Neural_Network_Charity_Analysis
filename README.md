@@ -1,11 +1,11 @@
 # Neural_Network_Charity_Analysis
 
 # Overview
-This is a project to build a deep learning model.  The project considered preprocessing of data and design of a neural network.  
+This is a project to build a deep learning model.
 
-Preprocessing is an important step and should consider the type of data and the size of the input dataset.  It is not known beforehand whether the dataset is of a linear or non-linear type, and finding a neural network fit to the dataset starts with a trial-and-error approach.  Fortunately, keras comes with a tuner model to assist in finding an optimal model.  Hyperparameters can explored with keras tuner such as the number of neural network layers, nodes, and activation functions.  Finer analyses searches could also be done such as optimizing the "learning rate" if desired.  
+Preprocessing is an important step and considers the type of data and the size of the input dataset.  It is not known beforehand whether the dataset is of a linear or non-linear type, and finding a neural network fit to the dataset starts with a trial-and-error approach.  Fortunately, keras comes with a tuner model to assist in finding an optimal model.  Hyperparameters can explored with keras tuner such as the number of neural network layers, nodes, and activation functions.  Finer analyses searches can also be done such as optimizing the "learning rate" if desired.  
 
-The different approaches for input data coupled with neural network design can be assessed by calculating performance measures.  The measures used in this project were the "loss" and the "accuracy" of the neural network model.
+Performance measures can assess the approaches for input data coupled with neural network design.  The measures used in this project were the "loss" and the "accuracy" of the neural network model.
 
 # Results <br>
 
